@@ -1,0 +1,11 @@
+name: crypto-compare-external-adapter
+description: An external adapter for fetching cryptocurrency prices from cryptocompare
+node_identifier: vn-cryptocompare
+platforms:
+  - AWS Lambda
+data_sources:
+  - name: cryptocompare
+    url: https://www.cryptocompare.com/
+parameters:
+  - fsym
+  - tsyms
