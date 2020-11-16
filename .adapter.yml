@@ -1,4 +1,4 @@
-name: crypto-compare-external-adapter
+name: crypto-compare-adapter
 description: An external adapter for fetching cryptocurrency prices from cryptocompare
 node_identifier: vn-cryptocompare
 platforms:
